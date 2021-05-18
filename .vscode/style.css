@@ -1,0 +1,13 @@
+
+.imagess{
+    width: 250px;
+    height: 250px;
+}
+.card{
+    transition: 0.5s;
+    margin: auto;
+}
+.card:hover{
+    transform: translateY(-8px);    
+    border: 2px solid black;
+}
